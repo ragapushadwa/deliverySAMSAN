@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/deliverySAMSAN/static/js/main.56861746.chunk.js",
-    "main.js.map": "/deliverySAMSAN/static/js/main.56861746.chunk.js.map",
+    "main.js": "/deliverySAMSAN/static/js/main.0b698403.chunk.js",
+    "main.js.map": "/deliverySAMSAN/static/js/main.0b698403.chunk.js.map",
     "runtime-main.js": "/deliverySAMSAN/static/js/runtime-main.31e3485f.js",
     "runtime-main.js.map": "/deliverySAMSAN/static/js/runtime-main.31e3485f.js.map",
     "static/css/2.1a02f21c.chunk.css": "/deliverySAMSAN/static/css/2.1a02f21c.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.31e3485f.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.75ec4c0e.chunk.js",
-    "static/js/main.56861746.chunk.js"
+    "static/js/main.0b698403.chunk.js"
   ]
 }
